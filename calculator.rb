@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "balls"
+first_number = 10
